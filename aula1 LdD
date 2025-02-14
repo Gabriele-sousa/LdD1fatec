@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+```ruby
 int main()
 {
     int V1, V2, SOMA; // desclaração de variáveis  
@@ -8,3 +8,4 @@ int main()
     SOMA=V1+V2;       // Soma os valores das variáveis V1 com V2    
     printf("%d", SOMA); // escreve na tela o resultado da soma das variáveis
 }
+```
