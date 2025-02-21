@@ -4,3 +4,4 @@
   * <a href="https://github.com/Gabriele-sousa/LdD1fatec/wiki/Aula-1">Codigo 1</a>
 
 ### Aula 2
+ * <a href="https://github.com/Gabriele-sousa/LdD1fatec/wiki/aula-2">Códigos 2</a>
