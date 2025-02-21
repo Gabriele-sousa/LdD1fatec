@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+    int V1, V2, SOMA; // desclaração de variáveis 
+    printf("Informe o primeiro valor: ");
+    scanf("%d", &V1); // Lê do teclado o primeiro valor
+    printf("Informe o segundo valor: ");
+    scanf("%d", &V2); // Lê do teclado o segundo valor
+    SOMA=V1+V2;       // Soma os valores das variáveis V1 com V2    
+    printf("Resultado = %d", SOMA);
+}
