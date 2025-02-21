@@ -11,3 +11,19 @@ int main()
     SOMA=V1+V2;       // Soma os valores das variáveis V1 com V2    
     printf("Resultado = %d", SOMA);
 }
+
+codigo dois
+
+#include <stdio.h>
+int main()
+{
+    int vh, va, vb, vol; 
+	printf("Informe a altura da caixa: ");
+	 scanf("%d", &vh);
+	printf("Informe a largura da frente da caixa: ");
+	 scanf("%d", &va);
+	printf("Informe a largura do lado da caixa: ");
+	 scanf("%d", &vb);
+	vol=vh*va*vb;
+	printf("O volume da caixa C) = %d", vol);
+}
