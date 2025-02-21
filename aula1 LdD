@@ -1,3 +1,4 @@
+Codigo 1
 #include <stdio.h>
 int main()
 {
@@ -6,4 +7,21 @@ int main()
     scanf("%d", &V2); // Lê do teclado o segundo valor
     SOMA=V1+V2;       // Soma os valores das variáveis V1 com V2    
     printf("%d", SOMA); // escreve na tela o resultado da soma das variáveis
+}
+
+Código 2
+calculo do volume de uma caixa
+
+#include <stdio.h>
+int main()
+{
+    int vh, va, vb, vol; // desclaração de variáveis 
+    printf("Informe a altura da caixa: ");
+    scanf("%d", &vh); 
+    printf("Informe a largura da frente da caixa: ");
+    scanf("%d", &va);
+    printf("Informe a largura do lado da caixa: ");
+    scanf("%d", &vb);
+    vol=vh*va*vb; 
+    printf("O volume da caixa é = %d", vol);
 }
