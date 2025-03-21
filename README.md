@@ -8,3 +8,7 @@
 
 ### Aula 3
  * <a href="https://github.com/Gabriele-sousa/LdD1fatec/wiki/Aula-3">Códigos 3</a>
+
+### Aula 4
+
+* <a href="https://github.com/Gabriele-sousa/LdD1fatec/wiki/Aula-4">Código 4</a>
