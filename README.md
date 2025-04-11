@@ -24,3 +24,7 @@
 ### Atividade para nota
 
 * <a href="https://github.com/Gabriele-sousa/LdD1fatec/wiki/Atividade-para-nota">Códigos 5
+
+### Aula 6
+
+* <a href ="">Código 6</a>
