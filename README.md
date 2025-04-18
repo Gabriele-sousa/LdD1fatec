@@ -27,4 +27,4 @@
 
 ### Aula 6
 
-* <a href ="">Código 6</a>
+* <a href="https://github.com/Gabriele-sousa/LdD1fatec/wiki/Aula-6">Código 6</a>
